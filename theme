@@ -1,6 +1,8 @@
 
-<pre class="wp-block-code"><code>/*
-Install theme using the Stylus extension for your web browser.  This theme is a modified kludged-together version of Roam Nord Theme https://textuploader.com/1q75s 
+/*
+WARNING: I have no idea what I'm doing. This is a kludged together experiment to format Roam blocks with first line indent so fiction looks prettier.
+Install theme using the Stylus extension for your web browser.
+This theme is a modified version of Roam Nord Theme https://textuploader.com/1q75s 
 */
 
 
